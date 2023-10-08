@@ -1,7 +1,9 @@
 [package]
-name = "discord_activity"
+name = "gigachad"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 discord-rich-presence = "0.2.3"
+tracing = "0.1.37"
+tracing-subscriber = "0.3.17"
